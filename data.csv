@@ -1,0 +1,54 @@
+Avail,Product Number,Name,Email,StudentID,Phone,Title,Author,ISBN,Price,PayPal,Description
+Avail,1,Emily,gslondon@mac.com,123123123,(660) 488-6014,I Sing the Body Electric,Ray Bradbury,987654301,10,https://www.paypal.com,Kinda rough on the edges but overall okay.
+Sold,2,Hannah,heckerman@att.net,123123123,(769) 403-5756,I Will Fear No Evil,Robert A. Heinlein,987654302,40,https://www.paypal.com,New!
+Avail,3,Madison,philen@icloud.com,123123123,(606) 445-6817,If I Forget Thee Jerusalem,William Faulkner,987654303,10,https://www.paypal.com,Unopened
+Avail,4,Ashley,sburke@verizon.net,123123123,(283) 345-7631,If Not Now When?,Primo Levi,987654304,10,https://www.paypal.com,Highlighted and some light use
+Avail,5,Sarah,telbij@aol.com,123123123,(313) 757-0319,In a Dry Season,Peter Robinson,987654305,10,https://www.paypal.com,notes on the side
+Avail,6,Alexis,cvrcek@hotmail.com,123123123,(828) 514-0137,In a Glass Darkly,Sheridan Le Fanu,987654306,10,https://www.paypal.com,New!
+Avail,7,Samantha,rafasgj@icloud.com,123123123,(825) 835-9530,In Death Ground,David Weber & Steve White,987654307,5,https://www.paypal.com,Missing pages
+Sold,8,Jessica,okroeger@yahoo.com,123123123,(837) 468-5721,In Dubious Battle,John Steinbeck,987654308,8,https://www.paypal.com,Like new
+Avail,9,Elizabeth,gamma@optonline.net,123123123,(519) 991-3357,An Instant in the Wind,Andre Brink,987654309,55,https://www.paypal.com,Barely used 
+Avail,10,Taylor,cmdrgravy@live.com,123123123,(493) 547-2291,It's a Battlefield,Graham Greene,987654310,10,https://www.paypal.com,scuffed pages
+Avail,11,Lauren,hstiles@comcast.net,123123123,(852) 208-4477,Jacob Have I Loved,Katherine Paterson,987654311,3,https://www.paypal.com,spilled tea
+Avail,12,Alyssa,grolschie@icloud.com,123123123,(842) 239-6521,O Jerusalem!,Dominique Lapierre and Larry Collins,987654312,10,https://www.paypal.com,Kinda rough on the edges but overall okay.
+Avail,13,Kayla,dgatwood@att.net,123123123,(975) 755-1104,Jesting Pilate,Aldous Huxley,987654313,6,https://www.paypal.com,New!
+Avail,14,Abigail,cumarana@msn.com,123123123,(238) 285-4133,The Last Enemy,Richard Hillary,987654314,10,https://www.paypal.com,Unopened
+Avail,15,Brianna,xtang@comcast.net,123123123,(680) 291-5125,The Last Temptation,Val McDermid,987654315,10,https://www.paypal.com,Highlighted and some light use
+Avail,16,Olivia,thurston@optonline.net,123123123,(400) 509-7271,The Lathe of Heaven,Ursula K. Le Guin,987654316,3,https://www.paypal.com,notes on the side
+Avail,17,Emma,msroth@live.com,123123123,(528) 563-3641,Let Us Now Praise Famous Men,James Agee,987654317,10,https://www.paypal.com,New!
+Avail,18,Megan,csilvers@att.net,123123123,(744) 748-2050,Lilies of the Field,William Edmund Barrett,987654318,10,https://www.paypal.com,Missing pages
+Sold,19,Grace,dinther@mac.com,123123123,(410) 260-6899,This Lime Tree Bower,Conor McPherson,987654319,10,https://www.paypal.com,Like new
+Avail,20,Victoria,jshirley@icloud.com,123123123,(469) 280-4842,The Line of Beauty,Alan Hollinghurst,987654320,10,https://www.paypal.com,Barely used 
+Avail,21,Rachel,gknauss@live.com,123123123,(761) 706-1504,The Little Foxes,Lillian Hellman,987654321,9,https://www.paypal.com,scuffed pages
+Avail,22,Anna,amimojo@optonline.net,123123123,(466) 388-7632,Little Hands Clapping,Dan Rhodes,987654322,144,https://www.paypal.com,spilled tea
+Avail,23,Sydney,afifi@aol.com,123123123,(378) 872-8711,Look Homeward Angel,Thomas Wolfe,987654323,10,https://www.paypal.com,Kinda rough on the edges but overall okay.
+Avail,24,Destiny,murty@outlook.com,123123123,(461) 292-7451,Look to Windward,Iain M. Banks,987654324,90,https://www.paypal.com,New!
+Avail,25,Morgan,dgriffith@optonline.net,123123123,(798) 347-0497,The Man Within,Graham Greene,987654325,10,https://www.paypal.com,Unopened
+Avail,26,Jacob,denism@optonline.net,123123123,(621) 212-4515,Many Waters,Madeleine L'Engle,987654326,37,https://www.paypal.com,Highlighted and some light use
+Avail,27,Michael,jonadab@att.net,123123123,(697) 582-2909,A Many-Splendoured Thing,Han Suyin,987654327,38,https://www.paypal.com,notes on the side
+Avail,28,Matthew,tedrlord@yahoo.ca,123123123,(497) 296-6863,The Mermaids Singing,Val McDermid,987654328,39,https://www.paypal.com,New!
+Avail,29,Joshua,keutzer@optonline.net,123123123,(842) 855-4868,The Millstone,Margaret Drabble,987654329,40,https://www.paypal.com,Missing pages
+Sold,30,Christopher,bflong@optonline.net,123123123,(559) 645-5735,The Mirror Crack'd from Side to Side,Agatha Christie,987654330,41,https://www.paypal.com,Like new
+Avail,31,Nicholas,neonatus@sbcglobal.net,123123123,(383) 402-9624,Moab Is My Washpot,Stephen Fry,987654331,43,https://www.paypal.com,Barely used 
+Avail,32,Andrew,granboul@gmail.com,123123123,(288) 873-4351,The Monkey's Raincoat,Robert Crais,987654332,44,https://www.paypal.com,scuffed pages
+Avail,33,Joseph,aibrahim@msn.com,123123123,(905) 768-4287,A Monstrous Regiment of Women,Laurie R. King,987654333,45,https://www.paypal.com,spilled tea
+Avail,34,Daniel,library@yahoo.com,123123123,(837) 473-3347,The Moon by Night,Madeleine L'Engle,987654334,46,https://www.paypal.com,Kinda rough on the edges but overall okay.
+Avail,35,Tyler,dhwon@icloud.com,123123123,(770) 752-9312,Mother Night,Kurt Vonnegut,987654335,48,https://www.paypal.com,New!
+Avail,36,William,scottzed@icloud.com,123123123,(474) 657-3977,The Moving Finger,Agatha Christie,987654336,49,https://www.paypal.com,Unopened
+Avail,37,Brandon,rgiersig@live.com,123123123,(510) 298-9611,The Moving Toyshop,Edmund Crispin,987654337,50,https://www.paypal.com,Highlighted and some light use
+Avail,38,Ryan,eimear@att.net,123123123,(257) 406-5147,Mr Standfast,John Buchan,987654338,51,https://www.paypal.com,notes on the side
+Avail,39,John,meinkej@mac.com,123123123,(825) 327-4732,Nectar in a Sieve,Kamala Markandaya,987654339,53,https://www.paypal.com,New!
+Avail,40,Zachary,ylchang@optonline.net,123123123,(916) 589-2686,The Needle's Eye,Margaret Drabble,987654340,54,https://www.paypal.com,Missing pages
+Sold,41,David,boftx@msn.com,123123123,(923) 607-7239,Nine Coaches Waiting,Mary Stewart,987654341,55,https://www.paypal.com,Like new
+Avail,42,Anthony,goresky@gmail.com,123123123,(736) 914-2246,No Country for Old Men,Cormac McCarthy,987654342,56,https://www.paypal.com,Barely used 
+Avail,43,James,oevans@icloud.com,123123123,(901) 905-2994,No Highway,Nevil Shute,987654343,57,https://www.paypal.com,scuffed pages
+Avail,44,Justin,staikos@sbcglobal.net,123123123,(511) 562-1867,Noli Me Tangere,Jose Rizal,987654344,59,https://www.paypal.com,spilled tea
+Avail,45,Alexander,dbrobins@msn.com,123123123,(326) 282-3725,No Longer at Ease,Chinua Achebe,987654345,60,https://www.paypal.com,Kinda rough on the edges but overall okay.
+Avail,46,Jonathan,evans@optonline.net,123123123,(680) 995-9518,Now Sleeps the Crimson Petal,H. E. Bates,987654346,61,https://www.paypal.com,New!
+Avail,47,Christian,hager@icloud.com,123123123,(389) 573-8393,Number the Stars,Lois Lowry,987654347,62,https://www.paypal.com,Unopened
+Avail,48,Austin,sharon@verizon.net,123123123,(605) 798-8279,Of Human Bondage,W. Somerset Maugham,987654348,64,https://www.paypal.com,Highlighted and some light use
+Avail,49,Dylan,ideguy@yahoo.com,123123123,(316) 582-9827,Of Mice and Men,John Steinbeck,987654349,65,https://www.paypal.com,notes on the side
+Avail,50,Ethan,calin@outlook.com,123123123,(265) 405-1269,Oh! To be in England,H. E. Bates,987654350,66,https://www.paypal.com,New!
+Avail,51,Nicolas Salomon,nicolas@email.com,123123123,5854041069,Harry Potter,JK Rowling,98755751,67,https://www.paypal.com,Missing pages
+Avail,52,Nicolas Salomon,nicolas@email.com,123123123,5954041204,Harry Potter and the Goblet of Fire,JK Rowling,9844244152,69,https://www.paypal.com,Like new
+Avail,53,Nicolas Salomon,nicolas@email.com,123123123,5954041204,Harry Potter 4,JK Rowling,12333353,44,https://www.paypal.com,used

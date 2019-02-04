@@ -1,0 +1,15 @@
+Seller:
+Name
+Email
+Email (@UMASS)
+Phone Number
+Book Title
+Author
+ISBN
+Paypal money request link
+Upload pic of book
+Description of use (scratched, highlighted, damaged, etc.)
+
+cat data.csv | perl -pe 's/((?<=,)|(?<=^)),/ ,/g;' | column -t -s, | less -s
+
+Word Trade
